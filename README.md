@@ -5,6 +5,17 @@
 
 # Installation
 
+## Prerequisites
+Download composer:
+
+`curl -sS https://getcomposer.org/installer | php`
+
+Install vendors:
+
+`php composer.phar install`
+
+## Install Crud
+
 For CakePHP 3.x compatible version:
 
 ```
